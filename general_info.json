@@ -4,18 +4,18 @@
       "name": "Rumah Sakit SMKDEV",
       "address": "Jl. Margacinta No. 29",
       "workdays": "Senin - Jumat : 08.00 - 20.00",
-      "weekend": "Sabtu : 08.00 - 17.00",
+      "weekend": "Sabtu : 08.00 - 17.00"
     },
-     {
+    {
       "name": "Klinik SMKDEV",
       "address": "Jl. Mars Barat I No. 9",
       "workdays": "Senin - Jumat : 08.00 - 20.00",
-      "weekend": "Sabtu : 08.00 - 13.00",
-    },
+      "weekend": "Sabtu : 08.00 - 13.00"
+    }
   ],
   "other info": {
     "name": "BPJS",
     "workdays": "Senin - Jumat : 07.00 - 14.00, 16.00 - 19.00",
-    "weekend": "Sabtu : 07.00 - 12.00",
-  },
+    "weekend": "Sabtu : 07.00 - 12.00"
+  }
 }
